@@ -1,0 +1,333 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-18 22:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: .\hac\settings.py:138
+msgid "English"
+msgstr "English"
+
+#: .\hac\settings.py:139
+msgid "Arabic"
+msgstr "العربية"
+
+#: .\jobs\templates\about.html:11
+msgid "About Hemam Al Ataa Company"
+msgstr "عن شركة همم العطاء"
+
+#: .\jobs\templates\about.html:29
+msgid " About Hemam Al Ataa Co. for General Trading and Contracting Company"
+msgstr "عن شركة همم العطاء للتجارة والمقاولات العامة محدودة المسؤولية"
+
+#: .\jobs\templates\about.html:74
+msgid "Our Vision"
+msgstr "رؤيتنا"
+
+#: .\jobs\templates\about.html:88
+msgid "Our litter"
+msgstr "رسالتنا"
+
+#: .\jobs\templates\about.html:102
+msgid "Our history"
+msgstr "تاريخنا"
+
+#: .\jobs\templates\base.html:10 .\jobs\templates\base2.html:10
+msgid " Hemam Al Ataa Company for General Trading and Contracting Company "
+msgstr "شركة همم العطاء للتجارة والمقاولات العامة محدودة المسؤولة"
+
+#: .\jobs\templates\base.html:61 .\jobs\templates\base2.html:61
+msgid "HOME"
+msgstr "الرئيسة"
+
+#: .\jobs\templates\base.html:63 .\jobs\templates\base2.html:63
+msgid "ABOUT HAC"
+msgstr "HAC عن"
+
+#: .\jobs\templates\base.html:66 .\jobs\templates\base2.html:66
+msgid "OUR SERVICES"
+msgstr "خدماتنا"
+
+#: .\jobs\templates\base.html:68 .\jobs\templates\base2.html:68
+msgid "OUR PROJECTS"
+msgstr "مشاريعنا"
+
+#: .\jobs\templates\base.html:72 .\jobs\templates\base2.html:72
+msgid "CONTACT US"
+msgstr "اتصل بنا"
+
+#: .\jobs\templates\base.html:74 .\jobs\templates\base2.html:74
+msgid "LANGUAGE"
+msgstr "اللغة"
+
+#: .\jobs\templates\base.html:152 .\jobs\templates\base2.html:152
+msgid ""
+"The HAC based in Iraq, adopts excellency in all its construction projects "
+"and for all its customers by submitting projects that adhere to the highest "
+"quality standards at the lowest cost and time possible."
+msgstr ""
+"تتبنى HAC ومقرها العراق التميز في جميع مشاريعها الإنشائية ولجميع عملائها من "
+"خلال تقديم مشاريع تلتزم بأعلى معايير الجودة بأقل تكلفة ووقت ممكن."
+
+#: .\jobs\templates\base.html:169 .\jobs\templates\base2.html:169
+msgid "Quick links"
+msgstr "روابط سريعة"
+
+#: .\jobs\templates\base.html:171 .\jobs\templates\base2.html:171
+msgid "About HCA"
+msgstr "HAC عن"
+
+#: .\jobs\templates\base.html:172 .\jobs\templates\base2.html:172
+msgid "Our services"
+msgstr "خدماتنا"
+
+#: .\jobs\templates\base.html:173 .\jobs\templates\base2.html:173
+msgid "Our projects"
+msgstr "مشاريعنا"
+
+#: .\jobs\templates\base.html:186 .\jobs\templates\base2.html:186
+#: .\jobs\templates\contact.html:38
+msgid "Shirqat District, Salah al-Din, Iraq"
+msgstr "ناحية الشرقاط, صلاح الدين, العراق"
+
+#: .\jobs\templates\base.html:215 .\jobs\templates\base2.html:215
+msgid "Copyrights"
+msgstr "حقوق النشر"
+
+#: .\jobs\templates\base.html:216 .\jobs\templates\base2.html:216
+msgid "Hemam Al Ataa"
+msgstr "همم العطاء"
+
+#: .\jobs\templates\base.html:217 .\jobs\templates\base2.html:217
+msgid "All rights reserved."
+msgstr "كل الحقوق محفوظة"
+
+#: .\jobs\templates\contact.html:13
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+#: .\jobs\templates\contact.html:34
+msgid "Contact Information"
+msgstr "معلومات التواصل"
+
+#: .\jobs\templates\contact.html:36
+msgid "Phone"
+msgstr "الهاتف"
+
+#: .\jobs\templates\contact.html:36
+msgid "+964 772 928 8392"
+msgstr ""
+
+#: .\jobs\templates\contact.html:37
+
+msgid "E-mail"
+msgstr "البريد الالكتروني "
+
+#: .\jobs\templates\contact.html:37
+msgid "info@ha-gtc.com"
+msgstr "info@ha-gtc.com"
+
+#: .\jobs\templates\contact.html:38
+
+msgid "Address"
+msgstr "العنوان"
+
+#: .\jobs\templates\contact.html:40
+msgid "WorkTime"
+msgstr "وقت العمل"
+
+#: .\jobs\templates\contact.html:40
+msgid "Sunday to Thursday 8 am : 5 pm"
+msgstr "من الأحد إلى الخميس 8 ص: 5 م"
+
+#: .\jobs\templates\contact.html:62
+msgid "Fullname"
+msgstr "الاسم بالكامل"
+
+#: .\jobs\templates\contact.html:67
+msgid "Email"
+msgstr ": البريد الالكتروني "
+
+#: .\jobs\templates\contact.html:76
+msgid "Message"
+msgstr "الرسالة"
+
+#: .\jobs\templates\contact.html:81
+msgid "Send"
+msgstr "ارسال"
+
+#: .\jobs\templates\index.html:49
+msgid "About Hemam Al Ataa Co. for General Trading and Contracting Company"
+msgstr "عن شركة همم العطاء للتجارة والمقاولات العامة محدودة المسؤولة"
+
+#: .\jobs\templates\index.html:55
+msgid "Read more"
+msgstr "قراءة المزيد"
+
+#: .\jobs\templates\index.html:68
+msgid "Efficiency and sincerity"
+msgstr "الكفاءة والاخلاص"
+
+#: .\jobs\templates\index.html:78
+msgid "Honor and credibility"
+msgstr "الشرف والمصداقية"
+
+#: .\jobs\templates\index.html:88
+msgid "Effectiveness"
+msgstr "فعالية"
+
+#: .\jobs\templates\index.html:98
+msgid "Focus on customer satisfaction"
+msgstr "التركيز على إرضاء العميل"
+
+#: .\jobs\templates\index.html:120
+msgid "Our Services"
+msgstr "خدماتنا"
+
+#: .\jobs\templates\index.html:129
+msgid "view all services"
+msgstr "رؤية جميع الخدمات"
+
+#: .\jobs\templates\index.html:144
+msgid "consultancy services"
+msgstr "خدمات استشارية"
+
+#: .\jobs\templates\index.html:154 .\jobs\templates\services.html:63
+msgid "Establishing desalination"
+msgstr "ازالة الملوحة من المياه"
+
+#: .\jobs\templates\index.html:188
+msgid "Our Projects"
+msgstr "مشاريعنا"
+
+#: .\jobs\templates\index.html:252 .\jobs\templates\projects.html:69
+msgid "view more"
+msgstr "عرض الكل"
+
+#: .\jobs\templates\index.html:265
+msgid "See All Projects"
+msgstr "عرض جميع المشاريع"
+
+#: .\jobs\templates\projects.html:12
+msgid "All projects"
+msgstr "عرض جميع المشاريع"
+
+#: .\jobs\templates\projects.html:24
+msgid ""
+"Since its establishment and until this moment, the company has accomplished "
+"many works, including restoration, construction and preparation of many "
+"projects inside and outside the province, such as building schools, "
+"complexes, health departments, bridges, restoration and rehabilitation "
+"projects for partially damaged buildings due to the war, and so on. "
+"Business. In addition to these works, the company has completed paving "
+"streets and repairing bridges. The company is a pioneer in completing these "
+"projects in the fastest time, with high technology and good accuracy, as it "
+"has specialized and distinguished technical and administrative cadres that "
+"qualifies it to carry out projects in the fullest manner and within the "
+"approved modern specifications."
+msgstr ""
+"منذ تأسيسها وحتى هذه اللحظة ، أنجزت الشركةالعديد من الأعمال من ضمنها الترميم "
+"والبناء وتجهيز العديد من المشاريع بالداخل وخارج المقاطعة ، مثل بناء المدارس "
+"والمجمعات والإدارات الصحية والجسور ،مشاريع ترميم وتأهيل المباني المتضررة "
+"جزئياً بسبب الحرب قريباً. اعمال.بالإضافة إلى هذه الأعمال فقد أنجزت الشركة رصف "
+"الشوارع وإصلاح الجسور.وتعتبر الشركة رائدة في انجاز هذه المشاريع في اسرع وقت "
+"ومرتفعتقنية ودقة جيدة حيث أنها تخصصية فنية ومتميزةالكوادر الإدارية التي "
+"تؤهلها لتنفيذ المشاريع على أكمل وجه وضمن المواصفات الحديثة المعتمدة."
+
+#: .\jobs\templates\projects_detail.html:12
+msgid "Back to projects"
+msgstr "العودة الى المشاريع"
+
+#: .\jobs\templates\reply.html:18
+msgid "Thank You!"
+msgstr "شكرا لك"
+
+#: .\jobs\templates\reply.html:24
+msgid ""
+"For choosing Ashor Iraqi Foundation For Relief And Development, We’ll get "
+"back to you about your order as soon as possible."
+msgstr ""
+
+#: .\jobs\templates\reply.html:26
+msgid "Having trouble?"
+msgstr "؟هل لديك مشكلة"
+
+#: .\jobs\templates\reply.html:26
+msgid "Contact us"
+msgstr "اتصل بنا"
+
+#: .\jobs\templates\reply.html:31
+msgid "back to home page"
+msgstr "العودة الى الصفحة الرئيسية"
+
+#: .\jobs\templates\services.html:14
+msgid "All Services"
+msgstr "خدماتنا"
+
+#: .\jobs\templates\services.html:35
+msgid ""
+"In Hemam Al Ataa Co. for General Trading and Contracting Company, we rely on "
+"a qualified and professional team with expertise in the construction "
+"industry and related works and how to develop and adapt work to obtain the "
+"desired results by permanently studying the work environment and its "
+"variables, identifying those variables and developing the best solutions to "
+"ensure the progress of work in accordance with the implementation schedules "
+"established."
+msgstr ""
+"في شركة همام العطاء للتجارة العامة والمقاولات ،نعتمد على فريق مؤهل ومحترف من "
+"ذوي الخبرة في البناءالصناعة والأعمال ذات الصلة وكيفية تطوير العمل وتكييفه "
+"للحصول علىالنتائج المرجوة من خلال الدراسة الدائمة لبيئة العمل ومتغيراتها ،"
+"تحديد تلك المتغيرات وتطوير أفضل الحلول لضمانسير العمل وفقا لجداول التنفيذ "
+"الموضوعة."
+
+#: .\jobs\templates\services.html:53
+msgid "Consultancy services"
+msgstr "خدمات استشارية"
+
+#: .\jobs\templates\services.html:71
+msgid "Water treatment plants"
+msgstr "محطات معالجة المياه"
+
+#: .\jobs\templates\services.html:79
+msgid "Electrical power systems"
+msgstr "أنظمة القوى الكهربائية"
+
+#: .\jobs\templates\services.html:87
+msgid "Communication networks"
+msgstr "شبكات الاتصالات"
+
+#: .\jobs\templates\services.html:94
+msgid "Educational and health facilities"
+msgstr "المرافق التعليمية والصحية"
+
+#: .\jobs\templates\services.html:101
+msgid "Designing, supervising and implementing infrastructure services."
+msgstr "تصميم خدمات البنية التحتية والإشراف عليها وتنفيذها."
+
+#: .\jobs\templates\services.html:108
+msgid ""
+"Designing, Supervising And Implementing Shipping Works, roads and bridges"
+msgstr "تصميم والإشراف وتنفيذ أعمال الشحن والطرق والجسور"
+
+#: .\jobs\templates\services.html:115
+msgid ""
+"Designing, Supervising And Implementing Water Networks and Drainage Joining"
+msgstr "تصميم والإشراف وتنفيذ شبكات المياه وربط الصرف"
+
+#~ msgid "E-mail :"
+#~ msgstr "البريد الالكتروني"
